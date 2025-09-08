@@ -1,0 +1,17 @@
+{
+  "installationFolder": "C:\\Users\\Devlepa\\AndroidStudioProjects\\Parcial\\openCVLibrary340\\build\\intermediates\\prefab_package\\debug\\prefab",
+  "gradlePath": ":openCVLibrary340",
+  "packageInfo": {
+    "packageName": "openCVLibrary340",
+    "packageSchemaVersion": 2,
+    "packageDependencies": [],
+    "modules": [
+      {
+        "moduleName": "opencv_jni_shared",
+        "moduleHeaders": "C:\\Users\\Devlepa\\AndroidStudioProjects\\Parcial\\openCVLibrary340\\native\\jni\\include",
+        "moduleExportLibraries": [],
+        "abis": []
+      }
+    ]
+  }
+}
